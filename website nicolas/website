@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>LYCS Luxury events</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Luxury events</h1>
+    </header>
+
+    <nav>
+        <a href="website">Home</a>
+        <a href="prijzen">prijzen</a>
+        <a href="Over ons.html">Over ons</a>
+        <a href="Contact.html">Contact</a>
+    </nav>
+
+    <div class="container">
+        <div class="homepage">
+            <h2>Welcome to LYCS Luxury events</h2>
+            <p>
+            </p>
+            <p>
+                Blader door onze website om meer te weten te komen over onze trainingen, ons team en hoe u contact met ons kunt opnemen. Wij staan klaar om u te helpen uw doelen te bereiken.
+            </p>
+        </div>
+
+        <div id=></script>
+    </div>
+
+    <footer>
+        Website van Nicolas da Silva Almada.
+    </footer>
+</body>
+</html>
