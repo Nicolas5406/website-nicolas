@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+    font-family: Merriweather, sans-serif;
+    color: orange;
+}
+
+header {
+    background-color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+nav {
+    background-color: #000000;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.training {
+    background-color: rgbargba(0, 0, 0, 1));
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.homepage {
+    background-color: rgba(rgba(0, 0, 0, 1));
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#buienradar-widget {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid #555;
+    font-size: 14px;
+}
+
+footer:hover {
+    background-color: #444;
+}
+
+nav {
+    background-color: #f3f3f3;
+    padding: 10px;
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #ff9900;
+}
+
+header {
+    background-color: #ff9900;
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+.weather-forecast {
+    margin-top: 20px;
+}
