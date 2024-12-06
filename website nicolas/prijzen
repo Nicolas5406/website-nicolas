@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-      <img src="huis1.gif"  width="80" height="80"> 
+        <a href="website"><img src="Fotos\Afbeelding1.png"  width="75" height="75" > </a>
       <h1>Luxury events</h1>
     </header>
 
@@ -31,9 +31,32 @@
 
         <div id=></script>
     </div>
+    <div class="webshop">
+    <div class="product">
+        <img src="Fotos\Afbeelding1.png" alt="Trouwerij" class="image">
+        <p>trouwerij ($)</p>
+    </div>
+    <div class="product">
+        <img src="Fotos\Afbeelding1.png" alt="Trouwerij" class="image">
+        <p>concert ($)</p>
+    </div>
+    <div class="product">
+        <img src="Fotos\Afbeelding1.png" alt="Trouwerij" class="image">
+        <p>feest ($)</p>
+    </div>
+    <div class="product">
+        <img src="Fotos\Afbeelding1.png" alt="Trouwerij" class="image">
+        <p>kinderfeestje ($)</p>
+    </div>
+    <div class="product">
+        <img src="Fotos\Afbeelding1.png" alt="Trouwerij" class="image">
+        <p>circus ($)</p>
+    </div>
+    <div class="product">
+        <img src="Fotos\Afbeelding1.png" alt="Trouwerij" class="image">
+        <p>schoolfeest ($)</p>
+    </div>
+</div>
 
-    <footer>
-        Website van Nicolas da Silva Almada.
-    </footer>
 </body>
 </html>

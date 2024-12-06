@@ -1,7 +1,7 @@
 body {
     background-color: black;
     font-family: Merriweather, sans-serif;
-    color: orange;
+    color: rgb(255, 255, 255);
 }
 
 header {
@@ -33,7 +33,7 @@ nav a {
 }
 
 .training {
-    background-color: rgbargba(0, 0, 0, 1));
+    background-color: rgbargba(0, 0, 0, 1);
     padding: 20px;
     margin: 20px 0;
     border-radius: 10px;
@@ -106,6 +106,37 @@ footer {
     border-radius: 10px;
     padding: 20px;
 }
+
 .weather-forecast {
     margin-top: 20px;
+}
+
+.webshop {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+}
+
+.product {
+    background-color: #ff9900;
+    padding: 10px;
+    border-radius: 10px;
+    color: #000;
+    font-size: 18px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.product .image {
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.product p {
+    margin: 0;
 }
