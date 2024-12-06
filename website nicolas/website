@@ -8,14 +8,15 @@
 </head>
 <body>
     <header>
-        <h1>Luxury events</h1>
+      <img src="huis1.gif"  width="80" height="80"> 
+      <h1>Luxury events</h1>
     </header>
 
     <nav>
         <a href="website">Home</a>
         <a href="prijzen">prijzen</a>
-        <a href="Over ons.html">Over ons</a>
-        <a href="Contact.html">Contact</a>
+        <a href="Over ons">Over ons</a>
+        <a href="Contact">Contact</a>
     </nav>
 
     <div class="container">
@@ -24,7 +25,7 @@
             <p>
             </p>
             <p>
-                Blader door onze website om meer te weten te komen over onze trainingen, ons team en hoe u contact met ons kunt opnemen. Wij staan klaar om u te helpen uw doelen te bereiken.
+                Blader door onze website om meer te weten te komen al de evenementen, ons team en hoe u contact met ons kunt opnemen. Wij staan klaar om u te helpen uw doelen te bereiken.
             </p>
         </div>
 
