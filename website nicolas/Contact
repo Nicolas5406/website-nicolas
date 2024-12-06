@@ -24,12 +24,14 @@
     <div class="container">
         <div class="homepage">
             <h2>Contact</h2>
-            <p>
+            <p> U kunt met ons contact opnemen via email of whatsapp
             </p>
             <p>
               <img src="Fotos\Gmail_Logo_512px.png"  width="100" height="100"> 
-              
-              <img src="Fotos\whatsapp-white-icon.png"  width="100" height="100"> 
+              <p>5406@schravenlant.nl</p>
+              <img src="Fotos\whatsapp-white-icon.png"  width="100" height="100">
+<p>0682977579</p>
+
             </p>
         </div>
 
