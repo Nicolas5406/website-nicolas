@@ -33,28 +33,28 @@
     </div>
     <div class="webshop">
     <div class="product">
-        <img src="Fotos\Trouwerij-plannen-1.jpeg" alt="Trouwerij" class="image">
-        <p>trouwerij ($)</p>
+        <img src="Fotos\Trouwerij-plannen-1.jpeg" alt="Bruiloft" class="image">
+        <a href= "https://docs.google.com/forms/d/e/1FAIpQLSc5KiiQV4zzzMbatUFh11DER_QJCWLN8wkyip2owJuit22OOA/viewform?usp=sf_link"> Bruiloft</a>
     </div>
     <div class="product">
-        <img src="Fotos\Concert2_header.jpg" alt="Trouwerij" class="image">
-        <p>concert ($)</p>
+        <img src="Fotos\Concert2_header.jpg" alt="Concert" class="image">
+        <a href= "https://docs.google.com/forms/d/e/1FAIpQLSc5KiiQV4zzzMbatUFh11DER_QJCWLN8wkyip2owJuit22OOA/viewform?usp=sf_link"> Concert</a>
     </div>
     <div class="product">
-        <img src="Fotos\60648e9749349ee53db608a50af9cf41089109605994c0cabb0d9beb06bdcc23-640x360.jpg" alt="Trouwerij" class="image">
-        <p>feest ($)</p>
+        <img src="Fotos\60648e9749349ee53db608a50af9cf41089109605994c0cabb0d9beb06bdcc23-640x360.jpg" alt="Festival" class="image">
+        <a href= "https://docs.google.com/forms/d/e/1FAIpQLSc5KiiQV4zzzMbatUFh11DER_QJCWLN8wkyip2owJuit22OOA/viewform?usp=sf_link"> Festival</a>
     </div>
     <div class="product">
-        <img src="Fotos\kinderfeestje-voorbereiden.jpg" alt="Trouwerij" class="image">
-        <p>kinderfeestje ($)</p>
+        <img src="Fotos\kinderfeestje-voorbereiden.jpg" alt="Kinderfeestje" class="image">
+        <a href= "https://docs.google.com/forms/d/e/1FAIpQLSc5KiiQV4zzzMbatUFh11DER_QJCWLN8wkyip2owJuit22OOA/viewform?usp=sf_link"> Kinderfeestje</a>
     </div>
     <div class="product">
-        <img src="Fotos\circus.png" alt="Trouwerij" class="image">
-        <p>circus ($)</p>
+        <img src="Fotos\circus.png" alt="Circus" class="image">
+        <a href= "https://docs.google.com/forms/d/e/1FAIpQLSc5KiiQV4zzzMbatUFh11DER_QJCWLN8wkyip2owJuit22OOA/viewform?usp=sf_link"> Circus</a>
     </div>
     <div class="product">
-        <img src="Fotos\schoolfeest-dj.jpg" alt="Trouwerij" class="image">
-        <p>schoolfeest ($)</p>
+        <img src="Fotos\schoolfeest-dj.jpg" alt="Schoolfeest" class="image">
+       <a href= "https://docs.google.com/forms/d/e/1FAIpQLSc5KiiQV4zzzMbatUFh11DER_QJCWLN8wkyip2owJuit22OOA/viewform?usp=sf_link"> Schoolfeest</a>
     </div>
 </div>
 
